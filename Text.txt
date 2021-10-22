@@ -1,0 +1,5 @@
+While working on this assignment I set out not to use any inherietence and virtual function, so I won't have the extra cost of having to look things up in virtual tables. I also tried to just to make the game, not anything extra or any what ifs. 
+
+I used a struct with arrays to do the bulk of the calculations when iterating through them. Iterating though a linear array is more memory firendly and make it more likely to be chached by the CPU. And avoiding random access of the memory and avoiding pointer chasing like linked lists.
+
+Thank you for playing I hope you enjoyed my simple little game.

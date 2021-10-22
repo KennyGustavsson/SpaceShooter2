@@ -1,0 +1,51 @@
+﻿  main.cpp
+E:\Skrivbord\SpaceShooter\SpaceShooter\Mesh.h(123,12): warning C4244: 'initializing': conversion from 'const _Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+E:\Skrivbord\SpaceShooter\SpaceShooter\Mesh.h(124,12): warning C4244: 'initializing': conversion from 'const _Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+E:\Skrivbord\SpaceShooter\SpaceShooter\Mesh.h(126,12): warning C4244: 'initializing': conversion from 'const _Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+E:\Skrivbord\SpaceShooter\SpaceShooter\Mesh.h(127,12): warning C4244: 'initializing': conversion from 'const _Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+E:\Skrivbord\SpaceShooter\SpaceShooter\Mesh.h(133,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\Skrivbord\SpaceShooter\SpaceShooter\Mesh.h(133,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\Skrivbord\SpaceShooter\SpaceShooter\Mesh.h(138,50): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Skrivbord\SpaceShooter\SpaceShooter\Mesh.h(138,41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Skrivbord\SpaceShooter\SpaceShooter\Timer.h(19,91): warning C4244: 'return': conversion from '_Rep' to 'float', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+E:\Skrivbord\SpaceShooter\SpaceShooter\Bullet.h(16,53): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Skrivbord\SpaceShooter\SpaceShooter\Bullet.h(16,41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Skrivbord\SpaceShooter\SpaceShooter\Bullet.h(17,57): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Skrivbord\SpaceShooter\SpaceShooter\Bullet.h(17,44): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Skrivbord\SpaceShooter\SpaceShooter\Bullet.h(18,57): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Skrivbord\SpaceShooter\SpaceShooter\Bullet.h(18,44): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Skrivbord\SpaceShooter\SpaceShooter\Bullet.h(19,56): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Skrivbord\SpaceShooter\SpaceShooter\Bullet.h(19,41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Skrivbord\SpaceShooter\SpaceShooter\Bullet.h(20,56): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Skrivbord\SpaceShooter\SpaceShooter\Bullet.h(20,41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Skrivbord\SpaceShooter\SpaceShooter\Game.h(50,107): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\Skrivbord\SpaceShooter\SpaceShooter\Game.h(50,81): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\Skrivbord\SpaceShooter\SpaceShooter\Game.h(51,84): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\Skrivbord\SpaceShooter\SpaceShooter\Game.h(142,96): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\Skrivbord\SpaceShooter\SpaceShooter\Game.h(142,70): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\Skrivbord\SpaceShooter\SpaceShooter\Game.h(143,73): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\Skrivbord\SpaceShooter\SpaceShooter\Game.h(303,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\Skrivbord\SpaceShooter\SpaceShooter\Game.h(306,37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Skrivbord\SpaceShooter\SpaceShooter\Game.h(306,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Skrivbord\SpaceShooter\SpaceShooter\Game.h(311,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  SpaceShooter.vcxproj -> E:\Skrivbord\SpaceShooter\x64\Debug\SpaceShooter.exe
